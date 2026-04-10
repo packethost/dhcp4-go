@@ -2,6 +2,9 @@
 
 DHCPv4 packet serialization/deserialization.
 
+> [!WARNING]
+> With the upcoming EoL of Equinix Metal on June 30, 2026, this repo is being archived on July 1, 2026.
+
 Includes a handler to create your own DHCPv4 server with (see [`handler.go`](./handler.go)).
 
 ## RFCs
